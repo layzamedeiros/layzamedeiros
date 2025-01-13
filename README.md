@@ -12,7 +12,9 @@
 
 ## Tecnologias do meu cotidiano ⚙️
 
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,electron,figma)](https://skillicons.dev)
 <table>
+<!--   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -41,7 +43,11 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
- </tr>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="electron" />
+      <br>Electron
+    </td>
+ </tr> -->
 </table>
 
 ## Conecte-se Comigo
