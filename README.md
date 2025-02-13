@@ -1,6 +1,6 @@
 ## Olá, me chamo Layza Medeiros!
-- 👾 Estudando HTML, CSS e JavaSript
-- 💻 Cursando Análise e Desenvolvimento de Sistemas 
+- 👾 Estudando JavaSript e React
+- 💻 Cursando Análise e Desenvolvimento de Sistemas
 
 
 ## Github Stats
