@@ -1,10 +1,9 @@
 ## Olá, me chamo Layza Medeiros!
 
 🎓 Graduada em Análise e Desenvolvimento de Sistemas <br>
-⚛️ Estudando React Native & TypeScript
+⚛️ Estudando desenvolvimento mobile com **React Native** e **TypeScript**
 
-
-## 📊 GitHub Stats
+### Estatísticas
 
 <div align="center">
   <a href="https://github.com/layzamedeiros">
@@ -13,12 +12,11 @@
   </a>
 </div>
 
-## ⚙️ Tecnologias 
+### Tecnologias 
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,styledcomponents,nodejs,postgres,git,github,figma)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,react,styledcomponents,nodejs,postgres,github,git,npm,figma)](https://skillicons.dev)
 
-
-## 🌐 Conecte-se comigo
+### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layza-medeiros-16392221b/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/layzamdrs/)
